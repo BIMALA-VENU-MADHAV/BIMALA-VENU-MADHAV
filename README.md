@@ -16,7 +16,5 @@ Software developer skilled in MERN stack, Java, and Python.<br><br>Building scal
 ![](https://github-profile-trophy.vercel.app/?username=BIMALA-VENU-MADHAV&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BIMALA-VENU-MADHAV&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
